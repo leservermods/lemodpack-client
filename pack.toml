@@ -1,12 +1,12 @@
 name = "lemodpack for the client"
 author = "thefirethirteen"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3104258be149661f056b10acb2d1620ab4df07ecb01b6cfff38096dd72536c56"
+hash = "14a3839e52653da6eccd31f7fc95228b3c3b77b564be592727d0adac07f5ff35"
 
 [versions]
 fabric = "0.14.10"
