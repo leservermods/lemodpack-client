@@ -1,0 +1,13 @@
+name = "Patterned Glass"
+filename = "patterned-glass-3.0.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "957b7bac3079b37ad111093d37428f7f72ed60a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3826703
+project-id = 495731
