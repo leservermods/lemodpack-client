@@ -1,4 +1,2 @@
-# lemodpack-client
-lemodpack for the client
-
-For fabric users.
+# lemodpack-fabric
+lemodpack for the fabric users
