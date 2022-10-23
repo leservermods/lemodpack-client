@@ -1,8 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+
+[[files]]
+file = "README.md"
+hash = "1d10db33c13e7c856c6e914be87b653e471ccacdb09696889b130e42e00a32f0"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -21,13 +39,43 @@ hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+metafile = true
+
+[[files]]
 file = "mods/modern-glass-doors.pw.toml"
 hash = "a9a2b1866fc889c5afdac083feebf5494a1b0b1bfca24695dc97f54426dc9b5b"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
+metafile = true
+
+[[files]]
 file = "mods/patterned-glass.pw.toml"
 hash = "8fc01fc1c8626e0d3db028f7bda489987493e89771a6cebddbac8daa48581377"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "b3d53702d8351a61707980136b9d04638d1411494dc372528211527500003da9"
+metafile = true
+
+[[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "19a3e8b6c965bd90a100faab65eca26ad530664ef680ab767e11bc7075496a34"
+metafile = true
+
+[[files]]
+file = "mods/servertick.pw.toml"
+hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ecac3070005390b0f5a1db1003ce848421d98f57ba897d95f2f6b86da9199451"
 metafile = true
 
 [[files]]
