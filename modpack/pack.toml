@@ -1,6 +1,6 @@
 name = "lemodpack for the client"
 author = "thefirethirteen"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "25a252752da9baf71db4506b73edd967281a3cd391fc0d1e01558e538ace4f38"
 
 [versions]
-fabric = "0.14.10"
+fabric = "0.14.13"
 minecraft = "1.19.2"
 
 [options]
