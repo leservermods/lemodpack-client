@@ -5,4 +5,4 @@
 *.mrpack
 
 # Exclude the packwiz executable
-/packwiz
+packwiz
