@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
+hash = "2871e0923ba05275c4d4bb88496de4cc432bd75b82f3faf69f1861079d97385e"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+hash = "1f018be49de00b884f4d5cd47f3a6e97b801fa4b35a877effd45b08ddd2b5873"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
+hash = "98fedc0568b31a6fe042f005294d23282ba9f38bf4c2f30800450b0a5bbcd364"
 metafile = true
 
 [[files]]
@@ -52,22 +52,22 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "b3d53702d8351a61707980136b9d04638d1411494dc372528211527500003da9"
+hash = "3603994ab35edc7d04cd2bacc9157b24ca53111d862479a1fffb556a68ac6850"
 metafile = true
 
 [[files]]
 file = "mods/right-click-harvest.pw.toml"
-hash = "19a3e8b6c965bd90a100faab65eca26ad530664ef680ab767e11bc7075496a34"
+hash = "94db7da1b4b2cbb0527bc4d217123337f54aab96136345bde2147929df956cbf"
 metafile = true
 
 [[files]]
 file = "mods/servertick.pw.toml"
-hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
+hash = "1426c88fc9363a505527d586c59c01bb479f43dda801abbbef25ed77877d3f9d"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ecac3070005390b0f5a1db1003ce848421d98f57ba897d95f2f6b86da9199451"
+hash = "518ff29050714d2ba7384b8c5d83926db746d159ade1e4d2fa56dd15e4666f87"
 metafile = true
 
 [[files]]
