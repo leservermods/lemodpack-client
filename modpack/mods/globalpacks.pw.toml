@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "global_packs-fabric-1.19.2-1.14.2_fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/eq60ZCOB/global_packs-fabric-1.19.2-1.14.2_fabric.jar"
+hash-format = "sha1"
+hash = "8cd211b34c43c4218b8df8da3bb4f825736e5c74"
+
+[update]
+[update.modrinth]
+mod-id = "NRLPy2mk"
+version = "eq60ZCOB"

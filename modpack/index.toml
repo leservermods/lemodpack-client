@@ -1,8 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "2ef0a818817588c92c0b0858f214326f9a640f152d8f595781e264176f3bc66c"
+metafile = true
+
+[[files]]
+file = "mods/antishulkerdupe.pw.toml"
+hash = "a9a7f2689bba3d13e112a1e5b41a8e1c0e660042ad1f04a783a14a65770c697d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
+metafile = true
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "eea6d460101a694d34662500bf0fcc2e8abfbdd2dbd447e5934a39a4c3d6ccb1"
+metafile = true
+
+[[files]]
+file = "mods/bettersleeping-revived.pw.toml"
+hash = "873aa44575c42ede9fae64070fcaab233ccca24c3cdc3501476d8d0070e9fff5"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "536839d7780fd9541a870d555dc0c7e39794948d2e0e14f4f92225bf0376cc92"
 metafile = true
 
 [[files]]
@@ -26,8 +51,23 @@ hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "e74878eb2e93e53bf1b141fea99da463c3a0082af670dc8fa21239f0f08a18f4"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "9efb6871d71a44163f4bf51c1f8186f164c865dd6cb5a5f07a31d7e45112dcf8"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "0ca1ac700baa445410c11d4374219ad4fab0756af1e18643be23168cdb966549"
 metafile = true
 
 [[files]]
@@ -36,8 +76,63 @@ hash = "1f018be49de00b884f4d5cd47f3a6e97b801fa4b35a877effd45b08ddd2b5873"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "92e81beb229f1db4532db089f2ae70eb3fc9aff0482fcb9dc7bfe707ab6f70c6"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "985c41b2ddab31bf80b20aba7e9b4a4534cdf1d68e1284784f283ab7a57db5c4"
+metafile = true
+
+[[files]]
+file = "mods/image2map.pw.toml"
+hash = "0506d03bf1bdca26df27ddfdc4712f974dc39c22ccd47fe6759969c5dc56c1c1"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "6da8b8e61582af489a0fc2e8490898701fef907a0b7942c48376489e65d940eb"
+metafile = true
+
+[[files]]
+file = "mods/keepheadnames.pw.toml"
+hash = "02138a20e3bc1dd482d55e09be2af2d57576b9e86857783952b288fc660cbc6a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "f1e9acf4e6d5dd002f69ea954830995dd3b464a1bd4069ee647f9c25ebaed812"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "1a44b87beb0e3ad041b9dc4d953bdc10e7a663fbaaa7023dc732d0b9af22ca0c"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "912a9bb68f411a1f0008d94afa1b5f09324e5321beef39b76b03a183e4445131"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
+metafile = true
+
+[[files]]
 file = "mods/modern-glass-doors.pw.toml"
 hash = "a9a2b1866fc889c5afdac083feebf5494a1b0b1bfca24695dc97f54426dc9b5b"
+metafile = true
+
+[[files]]
+file = "mods/mods-command.pw.toml"
+hash = "e02cb637ef26b686f64a9e8c6c1f59da4aad5ea8d452e9d413f0994c15d1d194"
 metafile = true
 
 [[files]]
@@ -51,13 +146,38 @@ hash = "8fc01fc1c8626e0d3db028f7bda489987493e89771a6cebddbac8daa48581377"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "8e107cca098cd248405b69989552fe83a14903179cd71e1de38a87f4f0ace686"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
+hash = "2b83063a6fd3ab1a432a59675347a738cccf336aa862645874e9bde6ba12cbd8"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "3603994ab35edc7d04cd2bacc9157b24ca53111d862479a1fffb556a68ac6850"
 metafile = true
 
 [[files]]
+file = "mods/recipe-cache.pw.toml"
+hash = "abb1f3a7f5fc2f9f40c60b5cfb7f807770d90bab7aa3c9cfb39ce44b4a7990c9"
+metafile = true
+
+[[files]]
 file = "mods/right-click-harvest.pw.toml"
 hash = "94db7da1b4b2cbb0527bc4d217123337f54aab96136345bde2147929df956cbf"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "e239776ebbeddc57a880c3a5de131122e4e6ecf8984674dbe1b2ff64133ab5f8"
+metafile = true
+
+[[files]]
+file = "mods/server-translations.pw.toml"
+hash = "ba5ad43131fa131a3c24d9e11d2dff9c4d6b407f2ae418bcd630c7e60791f852"
 metafile = true
 
 [[files]]
@@ -68,6 +188,26 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "518ff29050714d2ba7384b8c5d83926db746d159ade1e4d2fa56dd15e4666f87"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "d1272945e51efe46473463dd9f338d8ff3400d67cf637e0156f6e03677582437"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "43a4964ddd6baed01748eda3e23437fa7f92c6f92e8dc71a30fd1f5360507083"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "d2accfdeb772987301d7517f93e081a276e5ae7610caf1f213a2012204699358"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]

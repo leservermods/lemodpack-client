@@ -1,0 +1,8 @@
+name = "Server-Translations"
+filename = "Server-Translations-1.4.17+1.19.2.jar"
+side = "server"
+
+[download]
+url = "https://github.com/NucleoidMC/Server-Translations/releases/download/v1.4.17%2B1.19.2/Server-Translations-1.4.17+1.19.2.jar"
+hash-format = "sha1"
+hash = "65c8aed0f83bab4318329e435617e6504f3582d7"
