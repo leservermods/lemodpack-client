@@ -11,3 +11,6 @@ hash = "6e0ac7e0300c8f30852abb2a0cd0ed7495c9462c"
 [update.modrinth]
 mod-id = "xQgFileM"
 version = "6CeQ0wUU"
+
+[option]
+optional = true

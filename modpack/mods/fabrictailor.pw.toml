@@ -11,3 +11,6 @@ hash = "9a8b5e66e7b5178278ec8866a55189013e34b4f6"
 [update.modrinth]
 mod-id = "g8w1NapE"
 version = "vosWnCNv"
+
+[option]
+optional = true
