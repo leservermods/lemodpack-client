@@ -4,3 +4,5 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
+# Exclude the packwiz executable
+/packwiz
