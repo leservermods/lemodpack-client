@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "2ef0a818817588c92c0b0858f214326f9a640f152d8f595781e264176f3bc66c"
+hash = "e84d01f41e4eb7f10b07eb991b7534b20d4d9ca83ececd38dc6b719ea4a5a928"
 metafile = true
 
 [[files]]
@@ -12,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
+hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
 metafile = true
 
 [[files]]
 file = "mods/banhammer.pw.toml"
-hash = "eea6d460101a694d34662500bf0fcc2e8abfbdd2dbd447e5934a39a4c3d6ccb1"
+hash = "34ddf7c6b936f4ec2fb4190414fa4bd4f08f9ba66656eb8333aa6062bf83f79e"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "536839d7780fd9541a870d555dc0c7e39794948d2e0e14f4f92225bf0376cc92"
+hash = "3872b4d6abbf0fdf3af51d6dbf2ae7c52289074423d976883bf651137c3996ac"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "2871e0923ba05275c4d4bb88496de4cc432bd75b82f3faf69f1861079d97385e"
+hash = "c8fa2caa5dad9319b867b5af3866f304c17ce87e42e2d16d0854a5d110da8f6b"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.pw.toml"
-hash = "e74878eb2e93e53bf1b141fea99da463c3a0082af670dc8fa21239f0f08a18f4"
+hash = "4bc4d9a92d655df1d8fe0d67f3653b1b14686d291b99498a4d65aea34b4d1d34"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
+hash = "d5125dcf51d480c8e0f95ef01387e356df1fb21cd1dd5dde75b0ade06a8e44dd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "0ca1ac700baa445410c11d4374219ad4fab0756af1e18643be23168cdb966549"
+hash = "6a6f835b580940f02ab03686ac1fb7e01c79ac14d9bb05990d962d3788799c16"
 metafile = true
 
 [[files]]
@@ -77,17 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "92e81beb229f1db4532db089f2ae70eb3fc9aff0482fcb9dc7bfe707ab6f70c6"
+hash = "ac24b6eb7e969db987cd5983bc89ffee02aa4ee22a524b62e358971453b0f894"
 metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "985c41b2ddab31bf80b20aba7e9b4a4534cdf1d68e1284784f283ab7a57db5c4"
+hash = "d2f8d2d27dd1cba56d38a8c88b145059e294bf8e06560f1216d825e43ace9644"
 metafile = true
 
 [[files]]
 file = "mods/image2map.pw.toml"
-hash = "0506d03bf1bdca26df27ddfdc4712f974dc39c22ccd47fe6759969c5dc56c1c1"
+hash = "af561f16418d62ddf59ca3ee66740554662f5310147c90c08653332cebc94d10"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "912a9bb68f411a1f0008d94afa1b5f09324e5321beef39b76b03a183e4445131"
+hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
 metafile = true
 
 [[files]]
@@ -132,32 +132,32 @@ metafile = true
 
 [[files]]
 file = "mods/mods-command.pw.toml"
-hash = "e02cb637ef26b686f64a9e8c6c1f59da4aad5ea8d452e9d413f0994c15d1d194"
+hash = "d2745a40aad7e60e15e5ebf4ab6b350311bd6071c9ec0353a46ce50027da91df"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "98fedc0568b31a6fe042f005294d23282ba9f38bf4c2f30800450b0a5bbcd364"
+hash = "409ed9da6c1a71d064cc379906eb602f879d661db59c620517a080f642df796f"
 metafile = true
 
 [[files]]
 file = "mods/patterned-glass.pw.toml"
-hash = "8fc01fc1c8626e0d3db028f7bda489987493e89771a6cebddbac8daa48581377"
+hash = "e8914ba46c7521311455dd8bb138640c39616861a7e45590a13ca37ad837be30"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "8e107cca098cd248405b69989552fe83a14903179cd71e1de38a87f4f0ace686"
+hash = "e01e49f588e9c3859c599b1ddf993bc432de91ca2ff4e8414c562ed20a29ddc4"
 metafile = true
 
 [[files]]
 file = "mods/polysit.pw.toml"
-hash = "2b83063a6fd3ab1a432a59675347a738cccf336aa862645874e9bde6ba12cbd8"
+hash = "32514213c6681690cdaa5e259096ffdcfc0d419609ba2fa5be7d78050c1b0b5d"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "3603994ab35edc7d04cd2bacc9157b24ca53111d862479a1fffb556a68ac6850"
+hash = "dc384be62d730a63c17204a5279dcd5e49a4e09901979f7fa88777d8bf8065e7"
 metafile = true
 
 [[files]]
@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "e239776ebbeddc57a880c3a5de131122e4e6ecf8984674dbe1b2ff64133ab5f8"
+hash = "3a361ac83b0d6700341c7807df45b9a27c69e5535da220abd19a0f7f8293621d"
 metafile = true
 
 [[files]]
 file = "mods/server-translations.pw.toml"
-hash = "ba5ad43131fa131a3c24d9e11d2dff9c4d6b407f2ae418bcd630c7e60791f852"
+hash = "b26ad0a09396756ab6220053670326d08f0705ca432738ce0c37729405beba95"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "518ff29050714d2ba7384b8c5d83926db746d159ade1e4d2fa56dd15e4666f87"
+hash = "b2ce692e1386fd3d50d656f3fc91aa7eda2445cf962bbaa00a0beac95a53903e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "43a4964ddd6baed01748eda3e23437fa7f92c6f92e8dc71a30fd1f5360507083"
+hash = "16fffbf1137fe74a3c1a75a27af130b2de3c4c9b4eccbc1f95e737a624db88f4"
 metafile = true
 
 [[files]]

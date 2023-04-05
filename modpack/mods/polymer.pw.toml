@@ -1,13 +1,13 @@
 name = "Polymer"
-filename = "polymer-all-0.2.16+1.19.2.jar"
+filename = "polymer-all-0.2.25+1.19.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/xGdtZczs/versions/7bD9b3pu/polymer-all-0.2.16%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/xGdtZczs/versions/QcMLV0CE/polymer-all-0.2.25%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "f834cd294dba089db93aaf94e1bcb26ff8282676"
+hash = "49e4e082c92e19d85b2d77d4bac02edae2bfadf3"
 
 [update]
 [update.modrinth]
 mod-id = "xGdtZczs"
-version = "7bD9b3pu"
+version = "QcMLV0CE"
